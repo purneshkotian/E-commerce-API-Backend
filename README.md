@@ -26,6 +26,6 @@ This is a Django-based RESTful API for an e-commerce application. It allows user
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
+git clone https://github.com/purneshkotian/ecommerce-api.git
 cd ecommerce-api
 ```
